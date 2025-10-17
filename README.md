@@ -22,7 +22,19 @@
 
 **CIRCUIT DIAGRAM:**
 
+![WhatsApp Image 2025-10-16 at 14 23 19_c6f49445](https://github.com/user-attachments/assets/0351f287-482a-485d-8259-0d2e45fe06dc)
+
+**TABULAR COLUUMN:**
+![ed 1](https://github.com/user-attachments/assets/d3e08229-488e-45f5-a9eb-09366e46d32c)
+
+
+**CALCULATION:**
+
+![WhatsApp Image 2025-10-16 at 14 23 19_54ec840f](https://github.com/user-attachments/assets/de7786cd-296f-493e-94ea-7deca009469c)
+
+
 **PROCEDURE:** 
+
 
 1.	Give connections as per the circuit diagram.
 
