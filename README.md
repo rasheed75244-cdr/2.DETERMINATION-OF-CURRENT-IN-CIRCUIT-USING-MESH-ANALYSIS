@@ -48,6 +48,12 @@
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
 
+
+**MARK SPLITUP:**
+
+
+![NEW](https://github.com/user-attachments/assets/d0aca391-8679-4a2e-85b5-56c04d9c3f9b)
+
    **RESULT:**
 
 Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	/	V supply are:
